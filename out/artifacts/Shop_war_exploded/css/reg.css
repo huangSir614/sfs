@@ -1,0 +1,74 @@
+body{
+    background-color: #f2f2f2;
+}
+span{
+
+    display: block;
+
+}
+.reg_left{
+    float: left;
+}
+
+
+.reg_cen{
+    float: left;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+
+.reg_bg{
+    width: 900px;
+    height: 500px;
+    border: 1px solid #141414;
+    background-color: white;
+    margin: auto;
+    margin-top: 150px;
+
+}
+
+.td_left{
+    width: 100px;
+    text-align: right;
+    height: 45px;
+}
+
+.td_right{
+    padding-left: 30px;
+}
+
+#u457_input,#u458_input,#u459_input,#u460_input,#u462_input{
+    width: 251px;
+    height: 25px;
+    padding-left: 5px;
+
+
+}
+
+#u463_input{
+    width: 150px;
+    height: 30px;
+    margin-top: 20px;
+
+}
+
+#biaoqian{
+    margin-bottom: 30px;
+    font-size: 20px;
+
+}
+
+#check_code{
+    height: 25px;
+    padding-left: 5px;
+}
+
+
+
+#code{
+    float: right;
+}
+
+
+
